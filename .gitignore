@@ -1,4 +1,8 @@
 .venv/
+.venv-*/
+.vercel/
 data/
 models/*.pt
 __pycache__/
+backup-*/
+*.pyc

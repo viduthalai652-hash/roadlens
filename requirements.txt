@@ -1,6 +1,6 @@
-fastapi>=0.115,<1
-uvicorn>=0.30,<1
-python-multipart>=0.0.18
-ultralytics>=8.4,<9
-opencv-python>=4.10,<5
-numpy>=1.26
+fastapi==0.143.0
+uvicorn==0.54.0
+python-multipart==0.0.32
+numpy==2.5.2
+Pillow==12.3.0
+onnxruntime==1.30.0
